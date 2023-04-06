@@ -1,4 +1,7 @@
 git 
 maven
 jenkins
+sonar
+jfrog
+aws
 etc
